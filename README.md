@@ -1,5 +1,5 @@
-My name is Fanambinantsoa, 
-</> I’m interested in sciences and technology.
+</> I’m interested in computer, math, sciences and technology.
+I code for fun.
 
 <!---
 fanambynana/fanambynana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
